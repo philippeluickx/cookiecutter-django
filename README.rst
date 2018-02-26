@@ -1,4 +1,4 @@
-Cookiecutter Django
+Cookiecutter Django - with Multicontainer Elastic Beanstalk support
 =======================
 
 .. image:: https://travis-ci.org/pydanny/cookiecutter-django.svg?branch=master
@@ -22,6 +22,8 @@ Cookiecutter Django
 
 Powered by Cookiecutter_, Cookiecutter Django is a framework for jumpstarting
 production-ready Django projects quickly.
+
+This is a fork adding support for AWS Multicontainer Elastic Beanstalk service.
 
 * Documentation: https://cookiecutter-django.readthedocs.io/en/latest/
 * See Troubleshooting_ for common errors and obstacles
